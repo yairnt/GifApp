@@ -1,3 +1,3 @@
 # GifApp
 
-GIF APP permitirá buscar gifs en linea.
+GIF APP permite buscar gifs en linea.
