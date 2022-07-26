@@ -3,8 +3,7 @@ import { useState } from 'react'
 function AddCategory( {onNewCategory} ) {
 
   const [inputValue, setInputValue] = useState('')
-  
-
+    
   const onInputChange = ({target}) =>{
     setInputValue(target.value)
   }
