@@ -51,7 +51,8 @@ h3 {
 }
 
 .card p {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
+  color: black;
   flex: 1;
   font-size: 1.5rem;
   margin-top: 5px;
